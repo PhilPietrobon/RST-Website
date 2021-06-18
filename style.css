@@ -1,0 +1,101 @@
+/* for the body create a background and colour it (This is in case the gif doesn't load) */
+body {
+  font-family: "tahoma";
+  color: blue;
+  background-color: azure
+}
+/* set h1 colour to the rgb value, align it to the center and adjust the font size */
+h1 {
+  color: rgb(71, 71, 236);
+  text-align: center;
+  font-size: 5em
+}
+
+/* set a element colour to the black, align it to the center and adjust the font size */
+a{
+  color: black;
+  text-align: center;
+  font-size: 1em
+}
+
+/* change h2 element colour to rgb value and change font size */
+h2 {
+  color: rgb(71, 71, 236);
+  font-size: 3em
+ 
+}
+
+/* change h3 element colour to skyblue and change font size to 4em*/
+h3 {
+  color: skyblue;
+  font-size: 4em
+  
+}
+
+/* change h4 element colour to rgb value, change font size, and center the text */
+h4 {
+  color: rgb(71, 71, 236);
+  text-align: center;
+  font-size: 4em
+  
+}
+
+/* setthe display of the img element to block, set the length and width to 50%, make the border 8px and yellow, and center the image on the screen */
+img{
+    display: block;
+    width: 50%;
+    height: 50%;
+    border: 8px solid rgb(255, 253, 128);
+    margin-right: auto;
+    margin-left: auto
+}
+ 
+/* change the p element colour to black, make it bold, and make the font size 2em */
+p{
+  color: black;
+  font-weight: bold;
+  font-size: 2em
+}
+
+/* for the footer, set the padding to 20x, put it in the center, adjust the font size to 1.5em, and change the background colour to rgb value */
+footer{
+  padding:20x;
+  text-align: center;
+  font-size: 1.5em;
+  background-color: rgb(255, 253, 128)
+
+}
+
+/* Align the form in the center, make it bold, and change the font size to 1.25 em */
+form{
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.25em
+
+}
+
+/* change h5 element colour to black, center the text, make the text bold, and change font size to 2em */
+h5{
+  color: black;
+  text-align: center;
+  font-weight: bold;
+  font-size: 2em
+}
+
+/* change h6 element colour to black, center the text, make the text bold, and change font size to 1em */
+h6{
+  color: black;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1em
+
+}
+
+/* change h7 element colour to black, center the text, make the text bold, and change font size to 2em */
+h7{
+  color: black;
+  text-align: center;
+  font-weight: bold;
+  font-size: 2em
+
+}
